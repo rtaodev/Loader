@@ -12,7 +12,7 @@ local creator = game.CreatorId
 
 local games = {
     [35289532] = '', -- Dig
-    [35888785] = '', -- Prospecting
+    [35888785] = 'https://raw.githubusercontent.com/rtaodev/rtao_exe/refs/heads/main/Prospecting.lua', -- Prospecting
 } 
 
 if games[creator] then 
