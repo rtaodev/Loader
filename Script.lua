@@ -12,7 +12,7 @@ local creator = game.CreatorId
 
 local games = {
     [4372130] = 'https://raw.githubusercontent.com/rtaodev/rtao_exe/refs/heads/main/BloxFruit.lua', --BloxFruit
-    [40397833] = 'https://raw.githubusercontent.com/rtaodev/rtao_exe/refs/heads/main/fish_It_v1.lua', -- Fish It
+    [35102746] = 'https://raw.githubusercontent.com/rtaodev/rtao_exe/refs/heads/main/fish_It_v1.lua', -- Fish It
     [35888785] = 'https://raw.githubusercontent.com/rtaodev/rtao_exe/main/Prospecting.lua', -- Prospecting
 } 
 
