@@ -15,7 +15,7 @@ local games = {
     [35102746] = 'https://pandadevelopment.net/virtual/file/611992b0ebbfd864', -- Fish It
     [35888785] = 'https://raw.githubusercontent.com/rtaodev/rtao_exe/main/Prospecting.lua', -- Prospecting
     [6042520] = 'https://raw.githubusercontent.com/rtaodev/rtao_exe/main/99nights_rtaodev_v9.lua', -- 99 Nights in the Forest
-    [35789249] = 'https://pandadevelopment.net/virtual/file/78c2e6562f18ea9f', -- Grow a Garden
+    [35789249] = 'https://pandadevelopment.net/virtual/file/b02a8b6346ea8b36', -- Grow a Garden
 } 
 
 if games[creator] then 
