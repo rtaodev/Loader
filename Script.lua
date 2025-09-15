@@ -26,7 +26,7 @@ print("Supported game!")
 local creator = game.CreatorId
 
 local games = {
-    [4372130] = 'https://raw.githubusercontent.com/rtaodev/rtao_exe/main/BloxFruit.lua', --BloxFruit
+    [4372130] = 'https://pandadevelopment.net/virtual/file/699167cc20382219', --BloxFruit
     [35102746] = 'https://raw.githubusercontent.com/rtaodev/rtao_exe/main/FishIt_R1.lua', -- Fish It
     [35888785] = 'https://raw.githubusercontent.com/rtaodev/rtao_exe/main/Prospecting.lua', -- Prospecting
     [6042520] = 'https://raw.githubusercontent.com/rtaodev/rtao_exe/main/99nights_rtaodev_v9.lua', -- 99 Nights in the Forest
