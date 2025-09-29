@@ -23,7 +23,6 @@ if not game:IsLoaded() then
 end
 
 print("Supported game!")
-print("RTaO Script Loading..")
 local creator = game.CreatorId
 
 local games = {
